@@ -28,10 +28,10 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "73a064b080727bb26a7d431cd3edb9e3",
-"/": "73a064b080727bb26a7d431cd3edb9e3",
+"index.html": "246a09c69b7e0488b5ea8806fc59c6f5",
+"/": "246a09c69b7e0488b5ea8806fc59c6f5",
 "instagnam.zip": "e55fd22e1520d243dda523ef6ee94ffb",
-"main.dart.js": "bfa44ddb7f3c0d4fd6b2fd339ddb79fd",
+"main.dart.js": "2f7066f7d9871750b0af41adcca5dcf3",
 "manifest.json": "6588304322b258fbc978e44cadf0bd1b",
 "version.json": "3e49138509d5f10a45ff32ae6ac26423"
 };
